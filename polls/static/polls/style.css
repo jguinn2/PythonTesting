@@ -1,0 +1,41 @@
+li a {
+    color: black;
+}
+
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+img.logo {
+    padding-top: 30px;
+    float: left;
+}
+
+div.a {
+  float: left;
+}
+
+div.header {
+  padding: 1px;
+  text-align: center;
+  background: #ffc700;
+  font-size: 30px;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+ table.table {
+  empty-cells: show;
+  border-collapse: collapse;
+  float: left;
+}
+
+ table.AssignmentTable {
+  empty-cells: show;
+  border-collapse: collapse;
+  float: bottom;
+}
